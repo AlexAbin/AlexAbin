@@ -12,7 +12,7 @@ I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)** at OVGU. 
 
 * **Solver Development:** Building a **coupled EM-Thermal solver** in Python (using FDTD/FDM methods) to model and predict transient temperature profiles in heating applications.
 * **Simulation & Analysis:** Using **FEM (Ansys)** for structural analysis and **CFD (OpenFOAM)** to simulate aerodynamics and fluid flow.
-* **Automation:** Developing **iLogic** scripts to automate parametric CAD (Autodesk Inventor) and data analysis pipelines.
+* **Automation:** Developing **iLogic** scripts to automate parametric CAD (Autodesk Inventor) and python for data analysis.
 
 
 
