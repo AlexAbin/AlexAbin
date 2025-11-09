@@ -20,11 +20,11 @@ I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)** at OVGU. 
 
 ### 🧰 My Toolbox
 
-| Simulation & Analysis | Programming & Data | CAD & Design |
+| Simulation & Analysis | Programming & Data | CAD  |
 | :--- | :--- | :--- |
 | ![Ansys](https://img.shields.io/badge/Ansys-Mechanical-orange?style=flat-square) | ![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat-square) | ![Autodesk Inventor](https://img.shields.io/badge/Inventor-iLogic-red?style=flat-square) |
 | ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-blue?style=flat-square) | ![MATLAB](https://img.shields.io/badge/MATLAB-Solver_Dev-green?style=flat-square) | ![Fusion 360](https://img.shields.io/badge/Fusion_360-Design-red?style=flat-square) |
 | ![MEEP](https://img.shields.io/badge/MEEP-FDTD-purple?style=flat-square) | ![C++](https://img.shields.io/badge/C++-Core-blue?style=flat-square) | |
-| ![LIGGGHTS](https://img.shields.io/badge/LIGGGHTS-DEM-gray?style=flat-square) | ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat-square) | |
+| ![LIGGGHTS](https://img.shields.io/badge/LIGGGHTS-DEM-gray?style=flat-square) |  | |
 
 ---
