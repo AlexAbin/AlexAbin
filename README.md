@@ -10,7 +10,7 @@ My work focuses on **FEM**, **CFD**, and **em-thermal systems**.
 
 I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)** at OVGU. My primary research involves:
 
-* **Solver Development:** Building a **coupled EM-Thermal solver** in Python (using FDTD/FDM methods) to model and predict transient temperature profiles in microwave heating applications.
+* **Solver Development:** Building a **coupled EM-Thermal solver** in Python (using FDTD/FDM methods) to model and predict transient temperature profiles in heating applications.
 * **Simulation & Analysis:** Using **FEM (Ansys)** for structural analysis and **CFD (OpenFOAM)** to simulate aerodynamics and fluid flow.
 * **Automation:** Developing **iLogic** scripts to automate parametric CAD (Autodesk Inventor) and data analysis pipelines.
 
