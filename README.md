@@ -20,7 +20,7 @@ I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)** at OVGU. 
 
 ### 🧰 My Toolbox
 
-| Simulation & Analysis | Programming & Data | CAD  |
+| Simulation  | Programming | CAD  |
 | :--- | :--- | :--- |
 | ![Ansys](https://img.shields.io/badge/Ansys-Mechanical-orange?style=flat-square) | ![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat-square) | ![Autodesk Inventor](https://img.shields.io/badge/Inventor-iLogic-red?style=flat-square) |
 | ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-blue?style=flat-square) | ![MATLAB](https://img.shields.io/badge/MATLAB-Solver_Dev-green?style=flat-square) | ![Fusion 360](https://img.shields.io/badge/Fusion_360-Design-red?style=flat-square) |
