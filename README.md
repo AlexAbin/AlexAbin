@@ -2,7 +2,7 @@
 
 I'm an M.Sc. student in **Computational Methods in Engineering** at Otto-von-Guericke-Universität (Magdeburg, Germany).
 
-My work focuses on **FEM, **CFD**, and **em-thermal systems**.
+My work focuses on **FEM**, **CFD**, and **em-thermal systems**.
 
 ---
 
