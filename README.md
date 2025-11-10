@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm an M.Sc. student in **Computational Engineering**
+I'm a M.Sc. student in **Computational Engineering**
 My work focuses on **FEM**, **CFD**, and **EM-Thermal systems**.
 
 ---
