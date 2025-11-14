@@ -7,7 +7,7 @@ My work focuses on **FEM**, **CFD**, and **EM-Thermal systems**.
 
 ### 🔬 What I'm Working On
 
-I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)**. My primary research involves:
+I am currently a **Research Assistant (Wissenschaftliche Hilfskraft)**. My current research involves:
 
 * **Solver Development:** Building a **coupled EM-Thermal solver** in Python (using FDTD/FDM methods) to model and predict transient temperature profiles in heating applications.
 * **Simulation & Analysis:** Using **FEM (Ansys)** for structural analysis and **CFD (OpenFOAM)** to simulate aerodynamics and fluid flow.
